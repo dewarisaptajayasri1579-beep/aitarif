@@ -6,7 +6,7 @@ import BottomNav from "@/components/BottomNav";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "LogistiRate AI",
+  title: "RAJA SEWA MOBIL - AI TARIF",
   description: "Aplikasi PWA untuk menghitung dan merekomendasi tarif pengiriman barang.",
   manifest: "/manifest.json",
 };

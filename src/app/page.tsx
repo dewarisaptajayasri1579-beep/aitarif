@@ -149,7 +149,7 @@ Terima kasih.`;
   return (
     <div className="p-4 pt-8 pb-32 flex flex-col space-y-6">
       <header className="space-y-1">
-        <h1 className="text-2xl font-bold text-slate-800">Halo, siap hitung tarif?</h1>
+        <h1 className="text-xl font-black text-slate-800 uppercase tracking-wide">RAJA SEWA MOBIL - AI TARIF</h1>
         <p className="text-sm text-slate-500">Masukkan kebutuhan pengiriman pelanggan.</p>
       </header>
 
